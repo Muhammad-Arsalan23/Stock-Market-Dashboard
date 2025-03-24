@@ -19,7 +19,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ### 🌍 Deployment  
-🔗 **Live App:** [Streamlit App Link](your_streamlit_link)  
+🔗 **Live App:** [Streamlit App Link](https://stock-market-dashboard-y98bzknd8nuq9cuzsxqfwc.streamlit.app/)  
 🔗 **GitHub Repo:** [GitHub Link](your_github_repo)  
 
 ### 📷 Screenshots  

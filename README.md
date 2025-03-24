@@ -20,7 +20,7 @@ streamlit run app.py
 
 ### 🌍 Deployment  
 🔗 **Live App:** [Streamlit App Link](https://stock-market-dashboard-y98bzknd8nuq9cuzsxqfwc.streamlit.app/)  
-🔗 **GitHub Repo:** [GitHub Link](your_github_repo)  
+🔗 **GitHub Repo:** [GitHub Link](https://github.com/Muhammad-Arsalan23/Stock-Market-Dashboard.git)  
 
 ### 📷 Screenshots  
 (Add images of your app)

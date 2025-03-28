@@ -23,7 +23,9 @@ streamlit run app.py
 🔗 **GitHub Repo:** [GitHub Link](https://github.com/Muhammad-Arsalan23/Stock-Market-Dashboard.git)  
 
 ### 📷 Screenshots  
+![image](https://github.com/user-attachments/assets/66793366-8800-4e20-afb4-e21634498fee)
 ![image](https://github.com/user-attachments/assets/1b663b59-ae64-435e-bed5-cc3ed96359db)
+
 
 
 
